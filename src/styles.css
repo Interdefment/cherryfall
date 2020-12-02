@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-color: #002d00;
+}
+#canvas {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+#scroll {
+	height: 2000px;
+}
